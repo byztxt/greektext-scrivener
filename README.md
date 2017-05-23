@@ -7,6 +7,11 @@ texts with morphological parsing and Strong's numbers.
 This repo contains Dr. Robinson's New Testament Greek text of
 Scrivener's 1894 edition of Textus Receptus. Text only.
 
+## Internet addresses?
+
+1. https://www.byzantinetext.com
+
+2. https://github.com/byztxt/
 
 ## License?
 
